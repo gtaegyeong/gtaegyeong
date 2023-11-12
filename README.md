@@ -23,8 +23,9 @@
    <br/>
    <br/>
    
-####  :pencil2: 제목12
- 
+####  :pencil2: 제목12 
+: 블로그(https://taeging.tistory.com/)
+
     
 
 </div>
