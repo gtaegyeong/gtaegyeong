@@ -1,7 +1,8 @@
 <div align="center"> 
 
 <img src="스크린샷 2023-11-12 오후 9.45.07.png">
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=F28500&height=80&section=header&text=gtaegyung&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F28500&height=100&section=header&text=gtaegyung&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :octocat: It's growing !
 
