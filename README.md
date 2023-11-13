@@ -1,33 +1,19 @@
-<div align="center"> 
+<div align="left"> 
 
 <img src="스크린샷 2023-11-12 오후 10.17.56.png">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=F28500&height=100&section=header&text=gtaegyung&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
-####  :octocat: It's growing !
+<br/>
+<br/>
 
+[![Blog Badge](https://img.shields.io/badge/blog-black?style=for-the-badge&logo=tistory&logoColor=ffffff)](https://taeging.tistory.com/)
   
- <br/>
- <br/>
-  
-####  :deciduous_tree: I've used
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- 
-   <br/>
-   <br/>
+<details><summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Tipping%20Hand.png" alt="Person Tipping Hand" width="25" height="25" />  I've used ... </summary><br><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></details>
 
-####  :school_satchel: I'm learning
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<details><summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" />  I'm learning ... </summary><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"></details>
    
    <br/>
    <br/>
-   
-####  :pencil2: 제목12 
-[블로그](https://taeging.tistory.com/)
 
-    
+![gtaegyeong's github stats](https://github-readme-stats.vercel.app/api?username=gtaegyeong&show_icons=true&theme=graywhite)
 
 </div>
